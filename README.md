@@ -44,10 +44,10 @@ Watch the demo of the application here: [YouTube Demo](https://www.youtube.com/w
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/cse183FinalProject.git
+   git clone https://github.com/your-username/slugBirdApp.git
 2. Navigate to the project directory:
    ```bash
-   cd cse-183-project
+   cd slugBirdApp
 3. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
